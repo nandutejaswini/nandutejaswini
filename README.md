@@ -2,7 +2,7 @@
 
 ## 👩‍💻 About Me
 
-I'm Tejaswini, currently pursuing a Master of Science in Electrical and Computer Engineering at the University of Florida, with an expected graduation in May 2024. I specialize in advanced machine learning techniques and their applications in genomic data analysis.
+I'm Tejaswini, currently pursuing a Master of Science in Electrical and Computer Engineering at the University of Florida, with an expected graduation in May 2024. I specialize in advanced machine learning techniques and their applications in real world.
 
 ### 🎓 Education
 
@@ -28,7 +28,7 @@ I'm Tejaswini, currently pursuing a Master of Science in Electrical and Computer
 
 ### 🌱 I’m currently learning
 
-- Advanced techniques in deep learning and their applications in biotechnology.
+- Advanced techniques in deep learning and their applications.
 
 ### 📫 How to Reach Me
 
