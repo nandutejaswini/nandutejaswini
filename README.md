@@ -7,7 +7,7 @@ I'm Tejaswini, currently pursuing a Master of Science in Electrical and Computer
 ### 🎓 Education
 
 - **Master of Science in Electrical and Computer Engineering**  
-  University of Florida, Expected May 2024
+  University of Florida,  May 2024
 - **Bachelor of Engineering in Electronics and Communication Engineering**  
   G. Narayanamma Institute of Technology and Science, Hyderabad, India
 
